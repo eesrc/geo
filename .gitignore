@@ -1,0 +1,19 @@
+Makefile
+bin
+access_log
+geo.log
+geo
+cmd/geo/geo
+cmd/tria/tria
+
+# NATS
+nats
+
+# SQLite DB
+geo.db
+debug.db
+
+# Generated
+output
+
+!pkg/sub/output

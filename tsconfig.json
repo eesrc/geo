@@ -1,0 +1,3 @@
+{
+    "extends": "./web/spa/tsconfig.json"
+}
